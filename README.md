@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+# Hi, I'm Nghi 👋
+</div>
 
-<!--
-**nghiluu-engr/nghiluu-engr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+✨ Electronics & Telecommunications Engineering Student<br>
+📫 Embedded Systems · Microcontrollers · IoT · Robotics<br>
+🎓 2nd-year student at **Eastern International University (EIU)** 🇻🇳<br>
+🚀 Member of **EIU Students Technical Club (EIU STEC)**<br>
+🌱 Passionate about tinkering, hardware DIY & embedded gadgets
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+<a href="https://www.linkedin.com/in/gia-nghi-l%C6%B0u-65b166223/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+
+---
+
+<div align="center">
+  <sub>⚡ Always curious, tinkering, and building DIY electronics & embedded projects.</sub>
+</div>
