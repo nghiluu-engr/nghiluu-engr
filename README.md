@@ -5,10 +5,12 @@
 <div align="left">
 ✨ Electronics & Telecommunications Engineering Student<br>
 📫 Embedded Systems · Microcontrollers · IoT · Robotics<br>
-🎓 2nd-year student at **Eastern International University (EIU)** 🇻🇳<br>
-🚀 Member of **EIU Students Technical Club (EIU STEC)**<br>
+🎓 2nd-year student at <b>Eastern International University (EIU)</b> 🇻🇳<br>
+🚀 Member of <b>EIU Students Technical Club (EIU STEC)</b><br>
 🌱 Passionate about tinkering, hardware DIY & embedded gadgets
 </div>
+
+<br>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/gia-nghi-l%C6%B0u-65b166223/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
